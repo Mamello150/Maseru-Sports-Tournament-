@@ -1,0 +1,29 @@
+body{
+    family-font:arial,sans-erif;
+    margin:0;
+    background: grey;
+    color:black
+
+}
+header{
+    background: white;
+    color:black;
+    text-align: center;
+    padding: 20px;
+}
+nav a{
+    color: blue;
+    margin:15px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+footer{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding:20px;
+    background:blue;
+    color:azure;
+    padding: 30px;
+}
